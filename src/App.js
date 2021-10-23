@@ -3,7 +3,7 @@ import Basic from './components/Basic '
 function App() {
   return (
     <div className="App">
-    <div>
+    <div style={{ height: 600 }}>
       <Basic/>
     </div>
     </div>
